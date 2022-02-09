@@ -1,1 +1,1 @@
-# IMHTestProj
+# inmotion hosting test project
