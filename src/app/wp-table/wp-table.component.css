@@ -1,0 +1,30 @@
+.wpTableComponent {
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.wpPostsTable {
+    width: 100%;
+}
+
+.matCard {
+    margin-top: 75px;
+    width: 80%;
+    overflow: scroll;
+    margin-right: auto;
+    margin-left: auto;
+    pointer-events: all;
+}
+
+.mat-card-title-group {
+    align-items: center;
+}
+
+.mat-row .mat-cell {
+    border-bottom: 1px solid transparent;
+    border-top: 1px solid transparent;
+    cursor: pointer;
+  }
+.mat-row:hover .mat-cell {
+    border-color: currentColor;
+  }
